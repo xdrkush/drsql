@@ -1,0 +1,23 @@
+{
+  "name": "drsql",
+  "version": "0.0.1",
+  "description": "Librairy SQL By DrKush because i m very lazy !! In Progress !!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xdrkush/drsql.git"
+  },
+  "keywords": [
+    "librairy",
+    "sql"
+  ],
+  "author": "xdrkush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xdrkush/drsql/issues"
+  },
+  "homepage": "https://github.com/xdrkush/drsql#readme"
+}
