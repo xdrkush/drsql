@@ -83,3 +83,6 @@ exports.post = async (req, res) => {
     }).catch(err => console.log(err))
 }
 ```
+
+Voici un tuto de comment il est utiliser avec express:
+  - https://github.com/xdrkush/tuto-drsql

@@ -1,3 +1,6 @@
+/* Welcome
+ * ******* */
+
 // Import des fonctions
 const { insertInto } = require('./insert')
 const { deleteByID, deleteAll } = require('./delete')
