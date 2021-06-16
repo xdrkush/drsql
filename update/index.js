@@ -1,4 +1,3 @@
-
 // Update One
 // ex: updateOne('table', {name: 'Bruno', age: 20}).then().catch()
 exports.updateOne = (table, body, id) => {
