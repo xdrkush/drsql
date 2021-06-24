@@ -91,7 +91,7 @@ res.json({
 et le module va ce charger de traiter l'objet.
 !!! Attention il faut bien que votre DB soit creer en fonction de ce que vous envoyer !
 
-Exemple du module ( sq.insertInto() ):
+Exemple du module ( sql.insertInto() ):
 ```
 exports.insertInto = (table, body) => {
     const key = [], val = []
@@ -167,8 +167,10 @@ exports.post = async (req, res) => {
 ```
 
 Voici un tuto de comment il est utiliser avec express:
+
   Synchrone:
   - https://github.com/xdrkush/tuto-drsql
+
   Asynchrone:
   - https://github.com/xdrkush/tuto-drsql/tree/async
 
