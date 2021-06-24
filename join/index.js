@@ -1,5 +1,5 @@
 // Join With ID
-// ex: join('table1', 'table2', 'users.id', 'books.author_id', 2).then().catch()
+// ex: joinWithID('table1', 'table2', 'users.id', 'books.author_id', 2).then().catch()
 exports.joinWithID = (table1, table2, j1, j2, id) => {
     return new Promise(async (resolve, reject) => {
         let sql = `SELECT *
